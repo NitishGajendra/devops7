@@ -1,2 +1,2 @@
 Hello world
-b branch commit
+master branch commit
